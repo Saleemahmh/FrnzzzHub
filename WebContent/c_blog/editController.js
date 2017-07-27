@@ -1,6 +1,4 @@
-/**
- * Created by ikism on Dec 5, 2016
- */
+
 app.controller('editBlogController', function($scope, $routeParams, $location,
 		blogService) {
 	console.log('entering editController')
